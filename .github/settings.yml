@@ -1,0 +1,10 @@
+---
+# These settings are synced to GitHub by https://probot.github.io/apps/settings/
+
+_extends: gh-templates:.github/common-settings.yml
+
+repository:
+  name: "helm-charts"
+  description: "Helm Charts collection"
+  homepage: "https://rwxd.github.io/helm-charts/"
+  topics: "k8s, kubernetes, helm"
